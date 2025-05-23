@@ -1,0 +1,17 @@
+# Normalize all text files
+* text=auto
+
+# Force LF line endings for key file types
+*.py     text eol=lf
+*.ipynb  text eol=lf
+*.md     text eol=lf
+*.txt    text eol=lf
+*.csv    text eol=lf
+
+# Treat binary files as-is (no diff, no line ending changes)
+*.pdf    binary
+*.pth    binary
+*.png    binary
+*.jpg    binary
+*.jpeg   binary
+*.zip    binary
