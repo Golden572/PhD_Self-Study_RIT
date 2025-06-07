@@ -22,6 +22,12 @@ Follow-along notebooks and code exercises:
 - `00_Exercises_pytorch_fundamentals.ipynb`
 - `01_Example_gradient_descent.py`
 - `01_Live_pytorch_workflow.ipynb`
+- `02_Live_pytorch_nn_classification.ipynb`
+- `03_Live_pytorch_computer_vision.ipynb`
+- `04_Live_pytorch_custom_datasets.ipynb`
+- `01_Exercises_pytorch_workflow.ipynb`
+- `02_Exercises_pytorch_classification.ipynb`
+- `03_Exercises_pytorch_computer_vision.ipynb`
 
 Pre-trained models saved in `models/`.
 
