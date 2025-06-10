@@ -15,4 +15,4 @@ I'll use this to update my progress:
 - Day_10: 30/05/25 - 19:19:34
 - Day_11: 31/05/25 - 19:44:05 --> Completed Module 03
 - Day_12: 04/06/25 - 21:42:29
-- Day_13: 06/06/25 - xx:xx:xx
+- Day_13: 07/06/25 - 23:48:27
